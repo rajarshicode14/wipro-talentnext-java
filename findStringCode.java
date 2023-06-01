@@ -45,6 +45,7 @@ class UserMainCode {
     public int findStringCode(String input1) {
 
         // Main code
+
         String arr[] = input1.split(" ");
         String result = "";
 

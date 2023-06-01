@@ -34,6 +34,7 @@ Therefore, single-digit numeric PIN = 5
 
 class UserMainCode {
     public int getCodethroughStrings(String input1) {
+
         // Main code
 
         String str[] = input1.split(" ");
