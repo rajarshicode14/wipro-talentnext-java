@@ -34,7 +34,7 @@ combination of uppercase and lowercase letters.
 IMPORTANT Note: in Step1, after subtracting the alphabets we should use the absolute values for calculating the sum.
 For instance in the below example both [H-O] and [E-L] result in negative number -7, but the positive number 7 (absolute value of -7) is used for calculating the sum of the differences.
 
-Hello = [H-0] + [E-L] + [L] = [8-15] + [5-12] + [12] = [7] + [7] + [12] = [26]
+Hello = [H-O] + [E-L] + [L] = [8-15] + [5-12] + [12] = [7] + [7] + [12] = [26]
 
 Assumptions: The given string (sentence) will contain only alphabet characters and there will be only one space character between any two consecutive words
 
